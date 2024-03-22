@@ -7,7 +7,7 @@ with io.open('README.md', 'r', encoding='utf-8') as f:
 
 # py -m build
 # py -m twine upload --config-file .pypirc  --repository testpypi dist/*
-
+#bobo trades /awesome goodman
 setup(
     name='higher_institutions_ng',
     version='0.0.3',
